@@ -18,7 +18,7 @@
 I welcome all to put up their modifications and suggestions. All pull requests will be considered.
 
 ## Created & Maintained By: [Md Arman](https://github.com/mdarman187)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=red&style=plastic" alt="arman" /> </p>
+
 <a href="https://linkedin.com/in/mdarman187">
   <img align="left" alt="Arman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -34,6 +34,7 @@ I welcome all to put up their modifications and suggestions. All pull requests w
 <a href="https://www.facebook.com/mdarman187/">
   <img align="left" alt="Arman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
 
 > Found this project helpful or learned something new from it.
 > 
