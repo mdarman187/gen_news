@@ -9,9 +9,9 @@
 
 ## App Screenshots
 
-  Splash Screen                 |   Home Screen        |  Article Page
+  Home Screen                 |   Country Data        |  FAQs Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/mdarman187/gen_news/blob/master/Screenshot_2020-05-26-12-55-46-369_arman.corp.gennews.jpg?raw=true)|![](https://github.com/mdarman187/gen_news/blob/master/Screenshot_2020-05-26-12-55-58-480_arman.corp.gennews.jpg?raw=true)|![](https://github.com/mdarman187/gen_news/blob/master/Screenshot_2020-05-26-12-56-41-506_arman.corp.gennews.jpg?raw=true)
+![](https://github.com/mdarman187/gen_news/blob/master/covid-app-pic1.jpeg?raw=true)|![](https://github.com/mdarman187/gen_news/blob/master/covid-app-pic2.jpeg?raw=true)|![](https://github.com/mdarman187/gen_news/blob/master/covid-app-pic3.jpeg?raw=true)
 
 ## Pull Requests
 
