@@ -31,7 +31,7 @@ I welcome all to put up their modifications and suggestions. All pull requests w
 |[Object Detection App](https://github.com/mdarman187/ObjectDetection-using-tensorflowLite_App) |[![GitHub stars](https://img.shields.io/github/stars/mdarman187/ObjectDetection-using-tensorflowLite_App?style=social)](https://github.com/login?return_to=%2Fmdarman187%ObjectDetection-using-tensorflowLite_App)
 |[Aircraft War Game](https://github.com/mdarman187/Aircraft_War) |[![GitHub stars](https://img.shields.io/github/stars/mdarman187/Aircraft_War?style=social)](https://github.com/login?return_to=%2Fmdarman187%Aircraft_War)
 |[Railway Systems](https://github.com/mdarman187/Railway_Systems) |[![GitHub stars](https://img.shields.io/github/stars/mdarman187/Railway_Systems?style=social)](https://github.com/login?return_to=%2Fmdarman187%Railway_Systems)
-|[Aircraft War Game](https://github.com/mdarman187/Examination_Management_System) |[![GitHub stars](https://img.shields.io/github/stars/mdarman187/Examination_Management_System?style=social)](https://github.com/login?return_to=%2Fmdarman187%Examination_Management_System)
+|[Examination Management System](https://github.com/mdarman187/Examination_Management_System) |[![GitHub stars](https://img.shields.io/github/stars/mdarman187/Examination_Management_System?style=social)](https://github.com/login?return_to=%2Fmdarman187%Examination_Management_System)
 
 ## Created & Maintained By: [Md Arman](https://github.com/mdarman187)
 
