@@ -2,6 +2,12 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/mdarman187/gen_news?style=social)](https://github.com/login?return_to=%2Fmdarman187%gen_news) ![GitHub forks](https://img.shields.io/github/forks/mdarman187/gen_news?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/mdarman187/gen_news) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mdarman187/gen_news) 
 
+> Gennews is a modern-day News App that provides all the top and genuine news to the users all at the same place. 
+> 
+> It automatically fetches and updates news at regular intervals. 
+> 
+> It also comes in with various categories in order to provide variety in the news so that the user can view news according to their preferred category.
+
 
 ## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/mdarman187/gen_news/total?color=green)
 
