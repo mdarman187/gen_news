@@ -19,11 +19,15 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/mdarman187/gen_news/blob/master/Screenshot_2020-05-26-12-55-46-369_arman.corp.gennews.jpg?raw=true)|![](https://github.com/mdarman187/gen_news/blob/master/Screenshot_2020-05-26-12-55-58-480_arman.corp.gennews.jpg?raw=true)|![](https://github.com/mdarman187/gen_news/blob/master/Screenshot_2020-05-26-12-56-41-506_arman.corp.gennews.jpg?raw=true)
 
-## Pull Requests
+---
 
-I welcome all to put up their modifications and suggestions. All pull requests will be considered.
+### 🐧 Pull Requests
 
-## My Projects
+I welcome all to put up their modifications and suggestions. All pull requests will be considered. <br>
+
+---
+
+## 📂 My Projects
  Project Name        |Stars        
 :-------------------------|-------------------------
 [Gennews App](https://github.com/mdarman187/gen_news)| [![GitHub stars](https://img.shields.io/github/stars/mdarman187/gen_news?style=social)](https://github.com/login?return_to=%2Fmdarman187%gen_news)
@@ -39,35 +43,33 @@ I welcome all to put up their modifications and suggestions. All pull requests w
 |[Railway Systems](https://github.com/mdarman187/Railway_Systems) |[![GitHub stars](https://img.shields.io/github/stars/mdarman187/Railway_Systems?style=social)](https://github.com/login?return_to=%2Fmdarman187%Railway_Systems)
 |[Examination Management System](https://github.com/mdarman187/Examination_Management_System) |[![GitHub stars](https://img.shields.io/github/stars/mdarman187/Examination_Management_System?style=social)](https://github.com/login?return_to=%2Fmdarman187%Examination_Management_System)
 
-## Created & Maintained By: [Md Arman](https://github.com/mdarman187)
+## 👨‍💼 Created & Maintained By: [Md Arman](https://github.com/mdarman187)
 
 <a href="https://linkedin.com/in/mdarman187">
-  <img align="left" alt="Arman's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50">
 </a>
 <a href="https://twitter.com/mdarman_187">
-  <img align="left" alt="Arman's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/mdarman187">
-  <img align="left" alt="Arman's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="50">
 </a>
 <a href="https://instagram.com/mdarman_187/">
-  <img align="left" alt="Arman's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50">
 </a>
 <a href="https://www.facebook.com/mdarman187/">
-  <img align="left" alt="Arman's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a><br><br>
+  <img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50">
+</a><br>
 
-> Found this project helpful or learned something new from it.
-> 
-> Thank me by buying me a cup of :coffee:
->
+---
+
+### 💝 Found this project helpful or learned something new from it?
+
+Thank me by buying me a cup of :coffee:
+
 > * Pay on [PayPal](https://www.paypal.me/mdarman187/)
 > 
 > * Pay using GooglePay or Paytm on +918539856333
 
-> You can also nominate me for the Github Star developer program
+### ⭐ You can also nominate me for the Github Star developer program
 > https://stars.github.com/nominate
-
 ## Visitors Count
 
 <img align="left" src = "https://profile-counter.glitch.me/gen_news/count.svg" alt ="Loading">
