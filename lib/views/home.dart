@@ -13,8 +13,8 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  List<CategoryModel> categories = new List<CategoryModel>();
-  List<ArticleModel> articles = new List<ArticleModel>();
+  List<CategoryModel> categories = <CategoryModel>[];
+  List<ArticleModel> articles = <ArticleModel>[];
   bool loading = true;
 
   @override
